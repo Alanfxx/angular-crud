@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Notebook",
+      "price": 12000.40
+    },
+    {
+      "id": 2,
+      "name": "Nobreak",
+      "price": 2300.26
+    },
+    {
+      "id": 3,
+      "name": "SSD",
+      "price": 850.89
+    }
+  ]
+}
